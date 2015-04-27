@@ -16,7 +16,7 @@
     "Drew Miller"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/itsdrewmiller/angular-perfect-scrollbar",
+  "homepage": "https://github.com/nhutle-asnet/angular-perfect-scrollbar.git",
   "ignore": [
     "**/.*",
     "node_modules",
